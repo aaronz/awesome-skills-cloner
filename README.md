@@ -1,5 +1,8 @@
 # Awesome Skills Cloner
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenCode](https://img.shields.io/badge/OpenCode-Skill-green.svg)](https://opencode.ai)
+
 A skill for OpenCode that clones GitHub skill repositories into the current workspace for local access and customization.
 
 ## Overview
